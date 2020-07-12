@@ -1,0 +1,38 @@
+#
+# Brief description what the function does.
+#
+# Arguments:
+#   - $1 = function_local_name: Description of variable.
+#   - $2 = bar: Description of another variable.
+#
+# Returns:
+#   - 0: If x = y.
+#   - 1: If x != y.
+#
+# Prints:
+#   - stdout: Print confirmation if x = y.
+#   - stdout: Print error message if not x = y.
+#
+# Creates:
+#   - Global variables:
+#     - bar: Description
+#   - Files:
+#     - path: Descrption
+#
+
+#
+# Brief description what the function does.
+#
+# Arguments:
+#   - None
+#
+# Returns:
+#   - 0: Always.
+#
+# Prints:
+#   - stdout: Nothing.
+#   - stdout: Nothing.
+#
+# Creates:
+#   - Nothing.
+#
